@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[txo:home|Door43 (txo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-txo|d43-txo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-txo/archive/master.zip|d43-txo.zip]]
+
+**Recent Changes**
+{{changes>ns = txo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/txo|Ethnologue data]]
+
